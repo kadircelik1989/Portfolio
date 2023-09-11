@@ -32,7 +32,7 @@ export default function Footer() {
         <div className="copy">
           <LuCopyright></LuCopyright>
         </div>
-        <h3>Muhammed Ali Erdel 1989</h3>
+        <h3>Kadir Celik 1989</h3>
       </div>
     </footer>
   );
