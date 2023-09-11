@@ -5,18 +5,9 @@ export default function Section2() {
     <section className="section2Container">
       <div className="container section2content">
         <div className="threefive">
-          <h1>Hi, I'm Mali. Nice to meet you.</h1>
+          <h1>Hallo zusammen, ich bin Kadir.</h1>
           <h2>
-            Since embarking on my career as a web developer 18 months ago, I
-            have been dedicated to honing my skills in this field. After gaining
-            initial experience as a freelance web developer for 6 months, I
-            realized the importance of further professional development. To
-            enhance my expertise to a professional level, I successfully
-            completed a coding bootcamp. Currently, I am enthusiastically
-            seeking a position where I can work in an office environment and
-            collaborate with a team of like-minded individuals. I am eager to
-            contribute my skills and continue growing as a web developer through
-            collective efforts.
+            DAS EINZIEGE; WAS ICH WEIß; IST; DASS ICH NICHTS WEIß.
           </h2>
         </div>
       </div>
